@@ -1,0 +1,126 @@
+@font-face {
+    font-family: 'Futura New Demi';
+    src: url('FuturaNewDemi-Reg.woff2') format('woff2'),
+        url('FuturaNewDemi-Reg.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Futura New';
+    src: url('FuturaNewHeavy-Obl.woff2') format('woff2'),
+        url('FuturaNewHeavy-Obl.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Futura New';
+    src: url('FuturaNewExtraBold-Reg.woff2') format('woff2'),
+        url('FuturaNewExtraBold-Reg.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Futura New Book';
+    src: url('FuturaNewBook-Obl.woff2') format('woff2'),
+        url('FuturaNewBook-Obl.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Futura New';
+    src: url('FuturaNewBold-Obl.woff2') format('woff2'),
+        url('FuturaNewBold-Obl.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Futura New Demi';
+    src: url('FuturaNewDemi-Obl.woff2') format('woff2'),
+        url('FuturaNewDemi-Obl.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Futura New';
+    src: url('FuturaNewBold-Reg.woff2') format('woff2'),
+        url('FuturaNewBold-Reg.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Futura New';
+    src: url('FuturaNewMedium-Reg.woff2') format('woff2'),
+        url('FuturaNewMedium-Reg.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Futura New';
+    src: url('FuturaNewMedium-Obl.woff2') format('woff2'),
+        url('FuturaNewMedium-Obl.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Futura New';
+    src: url('FuturaNewHeavy-Reg.woff2') format('woff2'),
+        url('FuturaNewHeavy-Reg.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Futura New Book';
+    src: url('FuturaNewBook-Reg.woff2') format('woff2'),
+        url('FuturaNewBook-Reg.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Futura New';
+    src: url('FuturaNewExtraBold-Obl.woff2') format('woff2'),
+        url('FuturaNewExtraBold-Obl.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Futura New';
+    src: url('FuturaNewLight-Obl.woff2') format('woff2'),
+        url('FuturaNewLight-Obl.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Futura New';
+    src: url('FuturaNewLight-Reg.woff2') format('woff2'),
+        url('FuturaNewLight-Reg.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
